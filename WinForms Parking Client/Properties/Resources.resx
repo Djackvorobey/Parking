@@ -118,13 +118,40 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Red car" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Red car.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Szkielet_Parking" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Szkielet_Parking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="strzalka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strzalka.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pngegg (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngegg (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Red_blub" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Red_blub1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Green_Blub" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Green_Blub1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pietro11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pietro11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Red car" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Red car.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pietro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pietro1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pietro0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pietro0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strzalkaUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strzalkaUp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strzalkaDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strzalkaDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strzalkaRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strzalkaRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

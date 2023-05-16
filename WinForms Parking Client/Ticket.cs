@@ -9,7 +9,7 @@ namespace Projekt_Inzynierski_2._0
     public class Ticket
     {
         public DateTime datetimeinput { get; set; }
-        public double tax { get; set; }
+        public decimal tax { get; set; }
         public int numberofticket { get; set; }
         public string nr_rej { get; set; }
         public bool isPaid { get; set; }
