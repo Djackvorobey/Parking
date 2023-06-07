@@ -32,7 +32,7 @@ if (app.Environment.IsDevelopment())
 
 
 
-app.MapGet("/update_tax", (string tax) => {
+app.MapPut("/update_tax", (string tax) => {
 
     MyDbContext context= new MyDbContext();
 
@@ -117,7 +117,7 @@ app.MapGet("/scan_ticket", (string ticket_number) => {
 
 }); //Ticket scanning 
 
-app.MapGet("/paid_ticket", (string ticket_number) =>
+app.MapPut("/paid_ticket", (string ticket_number) =>
 {
     MyDbContext context= new MyDbContext();
 
@@ -152,7 +152,7 @@ app.MapGet("/get_free_places", () => {
 
 }); //Get free places from Data Base
 
-app.MapGet("/clearDB", () => 
+app.MapPost("/clearDB", () => 
 {
     using (var context = new MyDbContext())
     {
